@@ -7,7 +7,7 @@ import java.util.BitSet;
 
 
 /**
- * @author Joel Nauschuetz
+ * @author Darjengar
  *
  */
 public class Oktadoku {
