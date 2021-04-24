@@ -3,7 +3,7 @@
  */
 
 /**
- * @author JDarjengar
+ * @author Darjengar
  *
  */
 public class Bigs {
