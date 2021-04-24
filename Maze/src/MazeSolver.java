@@ -8,7 +8,7 @@ import gdp.stdlib.StdIn;
  */
 
 /**
- * @author Joel Nauschuetz
+ * @author Darjengar
  *
  */
 public class MazeSolver {
